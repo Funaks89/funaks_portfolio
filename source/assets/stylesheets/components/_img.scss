@@ -3,15 +3,17 @@
   border-style: none;
   width: 340px;
   height: 260px;
-  border-radius: 50%;
+  border-radius: 25px;
+  box-shadow: 5px 10px 8px #888888;
   position: absolute;
     right: 0px;
     top: -44px;
+  
 }
 
 img {
   width: 360px;
-  padding-bottom: 12px;
-  padding-left: 12px;
+  padding-bottom: 0px;
+  padding-left: 0px;
 }
 
